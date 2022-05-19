@@ -1,4 +1,4 @@
-# heroes_of_pymoli
+# Heroes of Pymoli
 #Findings
 
 The company's largest demographic is males aged 20-24. Having the highest rate of multiple purchases, this is also the demographic responsible for the company having 780 purchases with only 576 members.
